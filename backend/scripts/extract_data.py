@@ -23,7 +23,7 @@ def main():
     )
 
     documents = parser.load_data(
-        os.path.abspath("./resources/dragons_of_stormwreck_isle.pdf")
+        os.path.abspath("./../resources/dragons_of_stormwreck_isle.pdf")
     )
 
     # Save the extracted markdown content to a file
