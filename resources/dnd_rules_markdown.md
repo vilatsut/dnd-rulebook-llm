@@ -2303,7 +2303,7 @@ Treasure. A character who examines the mushrooms lining the spring and succeeds 
 
 This encounter poses a medium challenge for 3rd-level characters and a difficult challenge for 2nd-level characters. Use it if your group enjoys combat or the players need a chance to practice using their characters' new abilities after gaining a level. It’s particularly appropriate if the characters are traveling across the island rather than following the coast.
 
-A discordant sound—half a low growl, half a piercing screech—rips through the air. Abruptly, a hulking creature comes into view. A mix of purple feathers and deep brown fur covers its bear-like body, and its large eyes stare hungrily at you from its owlish head.
+> A discordant sound—half a low growl, half a piercing screech—rips through the air. Abruptly, a hulking creature comes into view. A mix of purple feathers and deep brown fur covers its bear-like body, and its large eyes stare hungrily at you from its owlish head.
 
 This owlbear is hostile toward the characters. It views them as intruders in its territory, though its goal is to drive them away rather than kill them. Originally part of a performing troupe, the owlbear was stranded here after the ship carrying the troupe crashed on the northern rocks.
 
@@ -2357,35 +2357,6 @@ The caves have the following features:
 
 **Light.** The interior caves are illuminated by bioluminescent fungi, which provide dim light throughout the area. See "Vision" in the rulebook.
 
-
-# ENTERING THE CAVES
-
-At high tide, the 40-foot-high tunnel (area B1) is flooded all the way to area B2. The natural stairways, which are not shown on the map of Seagrow Caves, descend the cliffs into the sea. The characters can either wait for low tide or row or swim into the tunnel. At low tide, a 5-foot-wide pathway is exposed along the base of the cliffs and the edge of the tunnel.
-
-The tides shift every 6 hours, as summarized on the Tides table.
-
-## TIDES
-
-| Time                | Tide |
-| ------------------- | ---- |
-| Midnight to sunrise | Low  |
-| Sunrise to noon     | High |
-| Noon to sunset      | Low  |
-| Sunset to midnight  | High |
-
-
-# INTERACTING WITH MYCONIDS
-
-The myconids' initial attitude toward outsiders is hostile (see "Social Interaction" in the rulebook). They aren't malicious, though, and they don't resort to violence immediately. Adults use their Rapport Spores to telepathically warn visitors to leave. (See "Rapport Spores" below for details about this form of communication.) Sprouts flee toward the nearest adults to warn them of intruders. If the characters attack, the myconids defend themselves.
-
-To convince a hostile myconid to converse or to allow the characters to do anything other than leave the caves, a character must succeed on a DC 20 Charisma check. Depending on the character's approach, the Deception, Intimidation, or Persuasion skill can apply to the check. Mentioning Tarak's name or presenting the offering he sent the myconids grants advantage on this check.
-
-An indifferent myconid is willing to explain what is going on in Seagrow Caves. The sprouts know only that their leader, Sinensa, has fallen ill—and that a nasty smell pervades their caves. Adult myconids know that the "crystal cave" (area B6) is the source of the foul odor and that Sinensa fell ill after going into that cave to investigate the issue. The myconids normally avoid that cave because sunlight filters into it by way of the vent at the western end of the cave, and even diffuse sunlight is unpleasant to these cave-dwelling creatures.
-
-## RAPPORT SPORES
-
-A myconid's Rapport Spores ability allows all intelligent creatures in the area to communicate telepathically with each other. The characters and the myconids are effectively speaking thoughts at each other. This effect doesn't allow any creature to probe
-
 **Walls.** The cave walls are formed from hexagonal columns of dark gray basalt—volcanic rock originating from Sharruth's undersea tomb. The walls provide hand- and footholds, so climbing the walls doesn't require an ability check.
 
 **Fumes.** Toxic volcanic fumes from deep below the island are slowly poisoning the fungi in the caves. A faint smell of sulfur pervades the place, growing stronger the closer one gets to area B6. If the characters take a long rest inside the caves before opening the vent in B6, each character must succeed on a DC 13 Constitution saving throw or become poisoned (see "Conditions" in the rulebook). The *lesser restoration* spell ends this effect, as does finishing a long rest in fresh air.
@@ -2411,6 +2382,29 @@ If the party approaches from above, read this text:
 > An opening gapes in the cliff face two hundred feet below you, like a mouth drinking in the crashing waves. Two natural stairways formed of stone columns offer ways down the cliffs.
 
 
+# ENTERING THE CAVES
+
+At high tide, the 40-foot-high tunnel (area B1) is flooded all the way to area B2. The natural stairways, which are not shown on the map of Seagrow Caves, descend the cliffs into the sea. The characters can either wait for low tide or row or swim into the tunnel. At low tide, a 5-foot-wide pathway is exposed along the base of the cliffs and the edge of the tunnel.
+
+The tides shift every 6 hours, as summarized on the Tides table.
+
+## TIDES
+
+| Time                | Tide |
+| ------------------- | ---- |
+| Midnight to sunrise | Low  |
+| Sunrise to noon     | High |
+| Noon to sunset      | Low  |
+| Sunset to midnight  | High |
+
+
+# INTERACTING WITH MYCONIDS
+
+The myconids' initial attitude toward outsiders is hostile (see "Social Interaction" in the rulebook). They aren't malicious, though, and they don't resort to violence immediately. Adults use their Rapport Spores to telepathically warn visitors to leave. (See "Rapport Spores" below for details about this form of communication.) Sprouts flee toward the nearest adults to warn them of intruders. If the characters attack, the myconids defend themselves.
+
+To convince a hostile myconid to converse or to allow the characters to do anything other than leave the caves, a character must succeed on a DC 20 Charisma check. Depending on the character's approach, the Deception, Intimidation, or Persuasion skill can apply to the check. Mentioning Tarak's name or presenting the offering he sent the myconids grants advantage on this check.
+
+An indifferent myconid is willing to explain what is going on in Seagrow Caves. The sprouts know only that their leader, Sinensa, has fallen ill—and that a nasty smell pervades their caves. Adult myconids know that the "crystal cave" (area B6) is the source of the foul odor and that Sinensa fell ill after going into that cave to investigate the issue. The myconids normally avoid that cave because sunlight filters into it by way of the vent at the western end of the cave, and even diffuse sunlight is unpleasant to these cave-dwelling creatures.
 
 MAP 3: SEAGROW CAVES
 
@@ -2418,7 +2412,10 @@ MAP 3: SEAGROW CAVES
 
 [Map showing a cave system with various numbered locations (B1-B6) and features including "To Stairs Leading Up", "Sunken Walkway (Above Water at Low Tide)", and a compass rose. Scale: 1 Square = 5 Feet]
 
-invasively into another creature's mind. But it transcends language barriers, and you can play around with the kind of communication that the spores allow. Myconids' facial expressions might be difficult to read, but their telepathic communication might carry a direct expression of the myconids' emotional state. For example, when the myconids talk about their ailing leader, the characters might feel a deep sadness and a sense of anxiety much more clearly and powerfully than mere words and facial expressions can communicate.
+
+## RAPPORT SPORES
+
+A myconid's Rapport Spores ability allows all intelligent creatures in the area to communicate telepathically with each other. The characters and the myconids are effectively speaking thoughts at each other. This effect doesn't allow any creature to probe invasively into another creature's mind. But it transcends language barriers, and you can play around with the kind of communication that the spores allow. Myconids' facial expressions might be difficult to read, but their telepathic communication might carry a direct expression of the myconids' emotional state. For example, when the myconids talk about their ailing leader, the characters might feel a deep sadness and a sense of anxiety much more clearly and powerfully than mere words and facial expressions can communicate.
 
 The effect of Rapport Spores lasts for 1 hour, so characters might be telepathically linked to each other whenever they're within 30 feet of each other even after they leave the cave. Encourage the players to think about how this might affect their characters. Does it make them feel closer to their friends? Does it ease any suspicions they might have had about each other?
 
@@ -2540,14 +2537,12 @@ About forty years ago, a ship named *Compass Rose* carrying passengers bound for
 
 Not long ago, a harpy settled into the wreck of *Compass Rose*. With its magically entrancing voice, the harpy has been luring ships to crash on the shoal and feasting on the unlucky sailors. The sailors who escape the harpy's talons end up as zombies menacing the people of Dragon's Rest.
 
-The harpy is only the most immediate problem lurking in the wrecked hull of *Compass Rose*. The greater threat is a cursed talisman held in the ship's
+The harpy is only the most immediate problem lurking in the wrecked hull of *Compass Rose*. The greater threat is a cursed talisman held in the ship's¨hold, imbued with magic by a long-dead sailor's desperate prayers to a demon lord. This curse is responsible for the drowned sailors animating as zombies. Most of the sailors who were aboard the ship when it wrecked are long gone, but some zombies have been trapped in the wreck for years.
 
 > ### OTHER SHIPWRECKS
 > 
 > This chapter assumes the characters heed Runara's advice and search *Compass Rose* for clues to the recent shipwrecks. If the characters decide to explore other recent wrecks, you can use the map of *Compass Rose* to represent any other sunken ship's deck plan, though most of the wrecks are entirely underwater. Characters exploring other wrecks might find more zombies—sailors killed in the wrecks who were animated by the talisman in *Compass Rose*'s hold but couldn't get off their ships for some reason. They might also find giant octopuses (you can use the spore servant octopus stat block from appendix B), ghouls, or other dangers aboard. These adventures are yours to create, but only the wreck of *Compass Rose* holds the secret to freeing Dragon's Rest from the zombie attacks.
 
-
-hold, imbued with magic by a long-dead sailor's desperate prayers to a demon lord. This curse is responsible for the drowned sailors animating as zombies. Most of the sailors who were aboard the ship when it wrecked are long gone, but some zombies have been trapped in the wreck for years.
 
 ## SHIPWRECK FEATURES
 
@@ -2694,13 +2689,9 @@ The water on the lower deck ranges from about 6 inches deep on the starboard (so
 | 6  | A *spell scroll of command* (see appendix A), sealed in a leather case               |
 
 
-MAP SET 4
-
-
-
 # C9: HOLD
 
-As the cold water engulfs you, a strange undersea world is revealed. Colorful seaweed grows over the shattered hull, especially around the gaping hole in the stern of the ship. Tiny fish dart among hunks of debris and cargo.
+> As the cold water engulfs you, a strange undersea world is revealed. Colorful seaweed grows over the shattered hull, especially around the gaping hole in the stern of the ship. Tiny fish dart among hunks of debris and cargo.
 
 See "Climbing, Swimming, and Crawling" and "Suffocating" in the "The Environment" section of the rulebook as the characters venture into the submerged hold. Fortunately for them, unless something goes wrong, there's no significant time pressure on the characters as they swim around here. They can surface (at the hole in area C8's floor, or at the top of the stairs up to C8) to breathe as often as they need to.
 
@@ -2710,11 +2701,9 @@ The chest contains a pouch holding 55 gp and three turquoise stones (worth 10 gp
 
 ## 19 Tarsakh
 
-Our journey is ended, though I fear my own is to continue in the most horrible way imaginable. *Compass Rose* wrecked on a shoal south of Neverwinter. Many sailors perished with the initial impact, and Aleitha was gravely injured. As I tended her wounds, she clutched her talisman and breathed soft prayers. I asked her what the talisman signified. She told me love. Her husband waits for her at Dragon's Rest, having pledged his service to the dragon there. The talisman is made from locks of their hair, woven together as a promise to be reunited no matter what fate might befall them. It might have been a beautiful story, had it not been for Aleitha's gruesome end—and the words of the prayer I heard as she breathed her last. For she was begging Orcus, the Prince of Undeath, to reunite her with her husband.
-
-I held her hands as the breath left her, and I felt a horrible chill pass through her. Next I knew, she was sinking her teeth into my neck. At the same moment, I heard moans begin to rise from the dead sailors all around us. What curse has she brought on us all?
-
-Already I feel a creeping chill overtaking my body. I am securing her talisman with this book in my chest, in the hope that someone who comes after us may end this nightmare by bringing Altheia's talisman to her husband.
+>Our journey is ended, though I fear my own is to continue in the most horrible way imaginable. *Compass Rose* wrecked on a shoal south of Neverwinter. Many sailors perished with the initial impact, and Aleitha was gravely injured. As I tended her wounds, she clutched her talisman and breathed soft prayers. I asked her what the talisman signified. She told me love. Her husband waits for her at Dragon's Rest, having pledged his service to the dragon there. The talisman is made from locks of their hair, woven together as a promise to be reunited no matter what fate might befall them. It might have been a beautiful story, had it not been for Aleitha's gruesome end—and the words of the prayer I heard as she breathed her last. For she was begging Orcus, the Prince of Undeath, to reunite her with her husband.
+>I held her hands as the breath left her, and I felt a horrible chill pass through her. Next I knew, she was sinking her teeth into my neck. At the same moment, I heard moans begin to rise from the dead sailors all around us. What curse has she brought on us all?
+>Already I feel a creeping chill overtaking my body. I am securing her talisman with this book in my chest, in the hope that someone who comes after us may end this nightmare by bringing Altheia's talisman to her husband.
 
 The talisman is formed from long locks of hair—some blonde, some black—braided together and knotted around two small finger bones. If a character casts *detect magic*, the talisman is revealed to carry magic of the school of necromancy. See "Ending This Chapter" for more about the talisman.
 
@@ -2723,10 +2712,6 @@ Tarsakh is a month in the calendar of the Forgotten Realms, roughly correspondin
 **About Orcus.** Known as the Demon Prince of Undeath and the Blood Lord, the demon lord Orcus is a fiend whose power rivals that of the gods. Ruling over hordes of demons in the nightmarish plane of existence called the Abyss, Orcus yearns to transform the multiverse into a ghastly place of death. Many Undead creatures (like ghouls) worship him or seek to bargain with him in exchange for some fragment of his power over undeath.
 
 **A New Threat.** After the characters find the captain's chest, when they come up from the hold to the lower deck, they hear a heavy thump on the deck above them as the harpy lands on the main deck. See "Harpy's Return" below.
-
-
-
-HARPY'S RETURN | ENDING THIS CHAPTER
 
 # HARPY'S RETURN
 
